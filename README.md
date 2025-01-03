@@ -1,5 +1,5 @@
 # 💫 WELCOME TO MY PAGE! 👋
-🎓 About Me:<br>My name's Như Ý. I’m a fourth-year student at Hue University of Sciences, majoring in Information Technology. I have a strong passion for software development and am constantly exploring new technologies to expand my skills.<br>📫 How to Reach Me:<br>Email: nhuytran12223@gmail.com<br>🌱 What’s Next?<br>I’m currently learning advanced backend development to further enhance my expertise. I'm open to internship opportunities where I can contribute, learn, and grow professionally.
+🎓 About Me:<br>My name's Nhu Y Tran. I'm a senior student at Hue University of Sciences, majoring in Information Technology. I have a strong passion for software development and am constantly exploring new technologies to expand my skills.<br>📫 How to Reach Me:<br>Email: nhuytran12223@gmail.com<br>🌱 What’s Next?<br>I’m currently learning advanced backend development to further enhance my expertise. I'm open to internship opportunities where I can contribute, learn, and grow professionally.
 
 
 ## 🌐 Socials:
